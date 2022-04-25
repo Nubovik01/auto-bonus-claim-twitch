@@ -3,7 +3,7 @@
 // @namespace    https://github.com/Nubovik01/auto-bonus-claim-twitch
 // @homepage     https://github.com/Nubovik01/auto-bonus-claim-twitch
 // @version      1.0.0
-// @description  Скрипт автоматически собирает бонус в виде баллов канала в количестве 50 штук путём клика на зелёную кнопку при её появлении (необходимо чтобы в браузере была включена вкладка с чьим-нибудь стримом)
+// @description  Скрипт автоматически собирает бонус в виде баллов канала путём клика на зелёную кнопку при её появлении (необходимо чтобы в браузере была включена вкладка с чьим-нибудь стримом)
 // @icon         https://cdn.discordapp.com/attachments/640198921347399700/961351126987456602/favicon-32-e29e246c157142c94346.png
 // @author       Nubovik (www.nbvk.ml or nubovik.ml)
 // @match        *://*.twitch.tv/*
@@ -18,6 +18,10 @@
 
 // p.s: до меня уже создавали такие скрипты, так что не удивляйтесь если они будут похожи.
 
+function getRandomTime(min, max) {
+  return Math.random() * (max - min) + min;
+}
+
 (() => {
   setInterval(() => {
     let tw_bonus_btn = document.getElementsByClassName('claimable-bonus__icon')[0];
@@ -31,5 +35,5 @@
         console.log("[nbvk ~ autoBonus] Error: " + autoBonus_err);
       }
     };
-  }, 1000 - 7);
+  }, Math.round(getRandomTime(1499, 4999));
 })();
