@@ -2,7 +2,7 @@
 // @name         Автоматический сбор баллов канала
 // @namespace    https://github.com/Nubovik01/auto-bonus-claim-twitch
 // @homepage     https://github.com/Nubovik01/auto-bonus-claim-twitch
-// @version      1.0.0
+// @version      1.0.1
 // @description  Скрипт автоматически собирает бонус в виде баллов канала путём клика на зелёную кнопку при её появлении (необходимо чтобы в браузере была включена вкладка с чьим-нибудь стримом)
 // @icon         https://cdn.discordapp.com/attachments/640198921347399700/961351126987456602/favicon-32-e29e246c157142c94346.png
 // @author       Nubovik (www.nbvk.ml or nubovik.ml)
