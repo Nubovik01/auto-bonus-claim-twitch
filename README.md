@@ -6,10 +6,10 @@
 <div>
   <h3>Как установить?</h3>
   <p>
-  1. Нужно скачать расширение Tampermonkey для браузера, официальный сайт: <a href="https://tampermonkey.net/?locale=ru">tampermonkey.net</a>
+  1. Нужно скачать расширение Tampermonkey для браузера, официальный сайт: <a href="https://tampermonkey.net/?locale=ru">tampermonkey.net</a>.
   <br>
-  2. Нужно установить скрипт, для установки перейдите по ссылке <a href="https://github.com/Nubovik01/auto-bonus-claim-twitch/raw/main/extension/claimBonus.user.js">кликните сюда (кликабельно)</a>
+  2. Нужно установить скрипт, для установки перейдите по ссылке <a href="https://github.com/Nubovik01/auto-bonus-claim-twitch/raw/main/extension/claimBonus.user.js">кликните сюда (кликабельно)</a>.
   <br>
-  3. Если страница открылась правильно, а не в виде непонятного кода, нажмите кнопку "Install"
+  3. Если страница открылась правильно, а не в виде непонятного кода, нажмите кнопку "Install".
   </p>
 </div>
