@@ -5,7 +5,7 @@
 // @version      1.0.3
 // @description  Скрипт автоматически собирает баллы канала путём автоматического клика на зелёную кнопку при её появлении в чате
 // @icon         https://cdn.discordapp.com/attachments/640198921347399700/961351126987456602/favicon-32-e29e246c157142c94346.png
-// @author       Nubovik (https://qwkrtezzz.ru/)
+// @author       Nikita A. <https://t.me/nktdev> (https://nubovik01.github.io)
 // @match        *://*.twitch.tv/*
 // @downloadURL  https://github.com/Nubovik01/auto-bonus-claim-twitch/raw/main/extension/claimBonus.user.js
 // @updateURL    https://github.com/Nubovik01/auto-bonus-claim-twitch/raw/main/extension/claimBonus.user.js
