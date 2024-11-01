@@ -1,15 +1,9 @@
-# Автоматический сбор баллов канала
-Скрипт автоматически собирает баллы канала (необходимо чтобы в браузере была включена вкладка с чьим-нибудь стримом и чатом). Не знаю банит ли Twitch за автоматизацию действий, поэтому используйте этот скрипт на свой страх и риск.
+# Automatic channel points collector
+The script automatically collects channel points on Twitch. It is necessary that the tab with the stream and chat is enabled in the browser. Use at your own risk.
 
 <hr>
 
-<div>
-  <h3>Как установить?</h3>
-  <p>
-  1. Нужно скачать расширение Tampermonkey для браузера, официальный сайт: <a href="https://tampermonkey.net/?locale=ru">tampermonkey.net</a>.
-  <br>
-  2. Нужно установить скрипт, для установки перейдите по ссылке <a href="https://github.com/Nubovik01/auto-bonus-claim-twitch/raw/main/extension/claimBonus.user.js">кликните сюда (кликабельно)</a>.
-  <br>
-  3. Если страница открылась правильно, а не в виде непонятного кода, нажмите кнопку "Install".
-  </p>
-</div>
+## Setup
+1. Install [Tampermonkey](https://tampermonkey.net) to your browser
+2. Download my script. [Click here.](https://github.com/Nubovik01/auto-bonus-claim-twitch/raw/main/extension/claimBonus.user.js)
+3. Click to button "Install"
